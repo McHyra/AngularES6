@@ -1,0 +1,8 @@
+// _test.component.scss
+// test component
+
+@import 'global.component';
+
+.test-class {
+  color: $alert-color;
+}
